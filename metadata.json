@@ -1,0 +1,6 @@
+{
+  "name": "Eco Enzyme Connect",
+  "description": "A comprehensive community platform for Eco Enzyme makers featuring calculation tools, light sensors, location mapping, interactive chat, and guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
